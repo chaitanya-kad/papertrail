@@ -1,0 +1,24 @@
+{
+  "queries": [
+    {
+      "query": "how do you judge whether search returns useful sources near the top",
+      "relevant_sources": ["retrieval-evaluation.md"]
+    },
+    {
+      "query": "why use overlapping windows when splitting long papers",
+      "relevant_sources": ["chunking.md"]
+    },
+    {
+      "query": "find passages when the exact query wording is different",
+      "relevant_sources": ["keyword-and-semantic-search.md"]
+    },
+    {
+      "query": "what is reciprocal rank fusion useful for",
+      "relevant_sources": ["keyword-and-semantic-search.md", "retrieval-evaluation.md"]
+    },
+    {
+      "query": "how do precision recall and mean reciprocal rank differ",
+      "relevant_sources": ["retrieval-evaluation.md"]
+    }
+  ]
+}

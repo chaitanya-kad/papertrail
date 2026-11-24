@@ -1,0 +1,2 @@
+"""PaperTrail document search."""
+
